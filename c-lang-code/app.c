@@ -1,3 +1,3 @@
 #include<stdio.h>
 
-printf("Hey tehre")
+printf("Hey shabul")
